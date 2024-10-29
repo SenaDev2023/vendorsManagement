@@ -1,0 +1,11 @@
+{
+    "vName": "Reza",
+    "vTitle": "Principal Consultant",
+    "vCompany": "Catapult Systems",
+    "vYearsOfExperience": 12,
+    "vExpertise": [
+        ".net ",
+        "Clean Architechture",
+        "mySQL"
+    ]
+}
